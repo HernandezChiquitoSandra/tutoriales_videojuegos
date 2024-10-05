@@ -36,14 +36,19 @@
 
 * Lección 1
   * > Tutorial
-  * > Laboratorio
+    > 
   * > Desafío
+    > 
   * > Prueba
+    
 * Lección 2
   * > Tutorial
-  * > Laboratorio
+    > https://drive.google.com/file/d/1hgbEpNsdOwlNb289JYwTOtOUhqwk-70f/view?usp=sharing
   * > Desafío
+    >
+    > 
   * > Prueba
+    > 
 * Lección 3
   * > Tutorial
   * > Laboratorio
