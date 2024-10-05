@@ -13,15 +13,15 @@
 ## Contenido
 
 - ## Lecciones
-- [Lección 1](#lección-1-control-del-jugador)
-- [Lección 2](#lección-2-jugabilidad-básica)
-- [Lección 3](#lección-3-sonidos-y-efectos)
-- [Lección 4](#lección-4-mecánicas-de-jugabilidad)
-- [Lección 5](#lección-5-interfaz-de-usuario)
+- [Lección 1. Control del jugador](#lección-1-control-del-jugador)
+- [Lección 2. Jugabilidad básica](#lección-2-jugabilidad-básica)
+- [Lección 3. Sonidos y efectos](#lección-3-sonidos-y-efectos)
+- [Lección 4. Mecánicas de Jugabilidad](#lección-4-mecánicas-de-jugabilidad)
+- [Lección 5. Interfaz de Usuario](#lección-5-interfaz-de-usuario)
 
 ## Código Fuente
 
-## Lección 1. Control del jugardor
+## Lección 1. Control del jugador
   * > Prueba
     > https://drive.google.com/file/d/1XVP3VRlReO-z2rewmqOGQGNqHX9TZ6Vh/view?usp=sharing
     > ![image](https://github.com/user-attachments/assets/54faa6d1-01c0-4908-977b-971c2b090128)
