@@ -13,11 +13,11 @@
 ## Contenido
 
 - # Lecciones
-- [Lección 1](#Lección-1.-Control-del-jugador)
-- [Lección 2](#Lección-2.-Jugabilidad-básica)
-- [Lección 3](#Lección-3.-Sonidos-y-efectos)
-- [Lección 4](#Lección-4.-Mecánicas-de-Jugabilidad)
-- [Lección 5](#Lección-5.-Interfaz-de-Usuario)
+- [Lección 1](#Lección-1.)
+- [Lección 2](#Lección-2.)
+- [Lección 3](#Lección-3.)
+- [Lección 4](#Lección-4.)
+- [Lección 5](#Lección-5.)
 
 
 ## Código Fuente
@@ -42,7 +42,7 @@
   * > Desafío
   * > Prueba
     
-## Lección 4.  Mecánicas de Jugabilidad
+## Lección 4. Mecánicas de Jugabilidad
   * > Tutorial
   * > Laboratorio
   * > Desafío
