@@ -1,6 +1,6 @@
 # Creación de Video Juegos Tutoriales y Desafios
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/0b95fdcb-b7e2-4df5-a70d-9e09fff03246" alt="Logo" width=1200 height=300>
+    <img src="https://github.com/user-attachments/assets/55733e6a-1297-4315-a0dd-70f7e42f54f8" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Sandra Michel Hernández Chiquito
