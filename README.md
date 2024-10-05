@@ -12,13 +12,12 @@
 
 ## Contenido
 
-- # Lecciones
-- [Lección 1](#Lección-1.)
-- [Lección 2](#Lección-2.)
-- [Lección 3](#Lección-3.)
-- [Lección 4](#Lección-4.)
-- [Lección 5](#Lección-5.)
-
+- ## Lecciones
+- [Lección 1](#lección-1-control-del-jugador)
+- [Lección 2](#lección-2-jugabilidad-básica)
+- [Lección 3](#lección-3-sonidos-y-efectos)
+- [Lección 4](#lección-4-mecánicas-de-jugabilidad)
+- [Lección 5](#lección-5-interfaz-de-usuario)
 
 ## Código Fuente
 
