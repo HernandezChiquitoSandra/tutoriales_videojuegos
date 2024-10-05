@@ -1,54 +1,36 @@
-# Creación de Video Juego
+# Creación de Video Juegos Tutoriales y Desafios
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="![image](https://github.com/user-attachments/assets/0b95fdcb-b7e2-4df5-a70d-9e09fff03246)" alt="Logo" width=1200 height=300>
 
   <p align="center">
-    Short description
+    Sandra Michel Hernández Chiquito
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    GIDS4103
   </p>
 </p>
 
 
 ## Contenido
 
-- [Introducción](#introducción)
-- [Código Fuente](#código-fuente)
-- [Planificación](#planificación)
-- [Autores](#autores)
-- [Copyright](#copyright)
+- # Lecciones
+- [Lección 1](#Lección-1)
+- [Lección 2](#Lección-2)
+- [Lección 3](#Lección-3)
+- [Lección 4](#Lección-4)
+- [Lección 5](#Lección-5)
 
-
-## Introducción
-
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
 
 ## Código Fuente
 
-* Lección 1
-  * > Tutorial
-    > 
-  * > Desafío
-    > 
+## Lección 1
   * > Prueba
+    > 
     
-* Lección 2
-  * > Tutorial
+* Lección 2. Jugabilidad basica
+  * > Capturas
     > https://drive.google.com/file/d/1hgbEpNsdOwlNb289JYwTOtOUhqwk-70f/view?usp=sharing
-  * > Desafío
-    >
-    > 
-  * > Prueba
-    > 
+  * > Prueba https://drive.google.com/file/d/1ROwoaycbro8a-QJ3OjVaEgnzOSVqwJhZ/view?usp=sharing
+    
 * Lección 3
   * > Tutorial
   * > Laboratorio
@@ -64,14 +46,4 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
-* VideoJuego
 
-## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
-
-## Autores
-Bill Gates & Steve Jobs
-
-## Copyright
-Derechos Reservados 2022
