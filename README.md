@@ -36,10 +36,13 @@
 
     
 ## Lección 3. Sonidos y efectos
-  * > Capturas
+  * > Capturas 
+    >prototipo3 Player Animator
     > https://drive.google.com/file/d/1jpwmyApOutw63FMPPvbs2alZ_xp9w4pX/view?usp=drivesdk
   * > Prueba
-    > 
+    > https://drive.google.com/file/d/1hH4bg2OYE0YCnZyORftDMupSD7U8rTef/view?usp=sharing
+    > ![image](https://github.com/user-attachments/assets/9f624883-a542-402e-a169-9104b7498412)
+
     
 ## Lección 4. Mecánicas de Jugabilidad
   * > Tutorial
