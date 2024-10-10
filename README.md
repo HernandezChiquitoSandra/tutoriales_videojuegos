@@ -36,10 +36,10 @@
 
     
 ## Lección 3. Sonidos y efectos
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
+  * > Capturas
+    > https://drive.google.com/file/d/1jpwmyApOutw63FMPPvbs2alZ_xp9w4pX/view?usp=drivesdk
   * > Prueba
+    > 
     
 ## Lección 4. Mecánicas de Jugabilidad
   * > Tutorial
