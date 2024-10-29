@@ -15,7 +15,7 @@
 - ## Lecciones
 - [Lección 1. Control del jugador](#lección-1-control-del-jugador)
 - [Lección 2. Jugabilidad básica](#lección-2-jugabilidad-básica)
-- [Lección 3. Sonidos y efectos](#lección-3-sonidos-y-efectos)
+- [Animations 2D](#Animations-2D)
 - [Lección 4. Mecánicas de Jugabilidad](#lección-4-mecánicas-de-jugabilidad)
 - [Lección 5. Interfaz de Usuario](#lección-5-interfaz-de-usuario)
 
@@ -36,20 +36,23 @@
 
     
 ## Animations 2D
-#Parte 1
+##Parte 1
   * > Capturas 
     >prototipo3 Player Animator
     > https://drive.google.com/file/d/1jpwmyApOutw63FMPPvbs2alZ_xp9w4pX/view?usp=drivesdk
   * > Prueba
     > https://drive.google.com/file/d/1hH4bg2OYE0YCnZyORftDMupSD7U8rTef/view?usp=sharing
     > ![image](https://github.com/user-attachments/assets/9f624883-a542-402e-a169-9104b7498412)
-#Parte 2
+##Parte 2
+    * >Capturas
+      > https://drive.google.com/file/d/1R5o-tOY4xk_qqyla9-KCgaWZl36D6nwT/view?usp=sharing
+      * >Prueba
+        >https://drive.google.com/file/d/1B57yyzg5PSLh1lNeK0sG54eHSAMt30ml/view?usp=sharing
+##Parte 3
     >
-#Parte 3
-    >
-#Parte 4
-#Parte 5
-#Parte 6
+##Parte 4
+##Parte 5
+##Parte 6
 
     
 ## Lección 4. Mecánicas de Jugabilidad
