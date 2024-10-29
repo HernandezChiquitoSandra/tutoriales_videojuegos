@@ -36,19 +36,21 @@
 
     
 ## Animations 2D
-##Parte 1
+## Parte 1
   * > Capturas 
     >prototipo3 Player Animator
     > https://drive.google.com/file/d/1jpwmyApOutw63FMPPvbs2alZ_xp9w4pX/view?usp=drivesdk
   * > Prueba
     > https://drive.google.com/file/d/1hH4bg2OYE0YCnZyORftDMupSD7U8rTef/view?usp=sharing
     > ![image](https://github.com/user-attachments/assets/9f624883-a542-402e-a169-9104b7498412)
-##Parte 2
+    
+## Parte 2
     * >Capturas
       > https://drive.google.com/file/d/1R5o-tOY4xk_qqyla9-KCgaWZl36D6nwT/view?usp=sharing
       * >Prueba
         >https://drive.google.com/file/d/1B57yyzg5PSLh1lNeK0sG54eHSAMt30ml/view?usp=sharing
-##Parte 3
+        
+## Parte 3
     >
 ##Parte 4
 ##Parte 5
