@@ -40,18 +40,22 @@
   * > Capturas 
     >prototipo3 Player Animator
     > https://drive.google.com/file/d/1jpwmyApOutw63FMPPvbs2alZ_xp9w4pX/view?usp=drivesdk
-  * > Prueba
+  * > Asset
     > https://drive.google.com/file/d/1hH4bg2OYE0YCnZyORftDMupSD7U8rTef/view?usp=sharing
     > ![image](https://github.com/user-attachments/assets/9f624883-a542-402e-a169-9104b7498412)
     
 ## Parte 2
-    * >Capturas
-      > https://drive.google.com/file/d/1R5o-tOY4xk_qqyla9-KCgaWZl36D6nwT/view?usp=sharing
-      * >Prueba
-        >https://drive.google.com/file/d/1B57yyzg5PSLh1lNeK0sG54eHSAMt30ml/view?usp=sharing
+ * > Capturas
+   > https://drive.google.com/file/d/1R5o-tOY4xk_qqyla9-KCgaWZl36D6nwT/view?usp=sharing
+ * > Asset
+   > https://drive.google.com/file/d/1B57yyzg5PSLh1lNeK0sG54eHSAMt30ml/view?usp=sharing
         
 ## Parte 3
-    >
+  * > Capturas 
+    > https://drive.google.com/file/d/1pEU-VeLj50AE4yv3358_qvv3T2gY-R-E/view?usp=sharing
+  * > Asset
+    > https://drive.google.com/file/d/1kPgbAnE4xtgqlVE8JCAArkkkLfYt0n8f/view?usp=sharing
+    
 ##Parte 4
 ##Parte 5
 ##Parte 6
