@@ -16,8 +16,12 @@
 - [Lección 1. Control del jugador](#lección-1-control-del-jugador)
 - [Lección 2. Jugabilidad básica](#lección-2-jugabilidad-básica)
 - [Animations 2D](#Animations-2D)
-- [Lección 4. Mecánicas de Jugabilidad](#lección-4-mecánicas-de-jugabilidad)
-- [Lección 5. Interfaz de Usuario](#lección-5-interfaz-de-usuario)
+    - [Parte 1](#parte-1)
+    - [Parte 2](#parte-2)
+    - [Parte 3](#parte-3)
+
+- ## Desafios
+- [Challenge 2](#challenge-2)
 
 ## Código Fuente
 
@@ -61,15 +65,11 @@
 ##Parte 6
 
     
-## Lección 4. Mecánicas de Jugabilidad
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-    
-## Lección 5. Interfaz de Usuario
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+## Challenge 2
+* > Capturas
+  > https://drive.google.com/file/d/1uZ7GPMS_L6f3S930FN5HOuvMFdETJp5Q/view?usp=sharing
+* > Assets
+  > https://drive.google.com/file/d/12CjrN3NTF0VZzkszZP_9WHUzNPJjhWpw/view?usp=sharing
+  > ![image](https://github.com/user-attachments/assets/c1a68b89-645d-4d86-84d5-51b1a2ebafc6)
+
 
