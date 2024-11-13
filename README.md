@@ -60,9 +60,25 @@
   * > Asset
     > https://drive.google.com/file/d/1kPgbAnE4xtgqlVE8JCAArkkkLfYt0n8f/view?usp=sharing
     
-##Parte 4
-##Parte 5
-##Parte 6
+## Parte 4
+  * > Capturas
+    > https://drive.google.com/file/d/1aHLT6nP35PDG3rYpo8aK101cBMGQDax-/view?usp=sharing
+  * > Asset
+    >https://drive.google.com/file/d/1wwCDlTDL2Va_T1fOkm2iUwLfBF0-MPnS/view?usp=sharing
+    
+## Parte 5
+  * > Capturas
+    > https://drive.google.com/file/d/1iU1Ci-rZtuqGAP5QAyvdCkw-c9xEZUyz/view?usp=sharing
+  * > Asset
+    >https://drive.google.com/file/d/1EFAdigxAzrMbrMABI6IRDn-svELHbFFe/view?usp=sharing
+    
+## Parte 6
+  * > Capturas
+    > https://drive.google.com/file/d/1JpW8JdqNEROxXGko1v6bzqJ4td-_88fa/view?usp=sharing
+  * > Asset
+    >https://drive.google.com/file/d/1jBfK093owxZcgz5tRuDbZ2i0YHOvLlWl/view?usp=sharing
+    > ![image](https://github.com/user-attachments/assets/3dc3396c-98ab-4d50-b9bd-cb182b970b74)
+
 
     
 ## Challenge 2
